@@ -1,4 +1,3 @@
-crewai
+crewai==1.14.4
 streamlit
 python-dotenv
-langchain-groq
