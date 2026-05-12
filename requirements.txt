@@ -1,3 +1,4 @@
 crewai==1.14.4
 streamlit
 python-dotenv
+pydantic==2.11.4
